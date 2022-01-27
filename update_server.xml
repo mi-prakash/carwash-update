@@ -1,5 +1,16 @@
 <updates>
     <update>
+        <name>Car Wash</name>
+        <description>Main Admin component for Car Wash</description>
+        <element>com_carwash</element>
+        <type>component</type>
+        <version>1.2.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/prakash-a7x/carwash-update/releases/download/v1.0.1/com_carwash-1.2.1.zip</downloadurl>
+        </downloads>
+        <targetplatform name="joomla" version="3.10.5" />
+    </update>
+    <update>
         <name>Carwash - Notify Customer</name>
         <description>Send mail plugin for carwash</description>
         <element>notifycustomer</element>
@@ -9,17 +20,6 @@
         <version>1.0.1</version>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/prakash-a7x/carwash-update/releases/download/v1.0.1/plg_carwash_notifycustomer-1.0.1.zip</downloadurl>
-        </downloads>
-        <targetplatform name="joomla" version="3.10.5" />
-    </update>
-    <update>
-        <name>Car Wash</name>
-        <description>Main Admin component for Car Wash</description>
-        <element>com_carwash</element>
-        <type>component</type>
-        <version>1.2.1</version>
-        <downloads>
-            <downloadurl type="full" format="zip">https://github.com/prakash-a7x/carwash-update/releases/download/v1.0.1/com_carwash-1.2.1.zip</downloadurl>
         </downloads>
         <targetplatform name="joomla" version="3.10.5" />
     </update>
