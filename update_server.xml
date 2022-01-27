@@ -8,7 +8,7 @@
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/prakash-a7x/carwash-update/releases/download/v1.0.1/com_carwash-1.2.1.zip</downloadurl>
         </downloads>
-        <targetplatform name="joomla" version="3.10.5" />
+        <targetplatform name="joomla" version="3.(9|10)" />
     </update>
     <update>
         <name>Carwash - Notify Customer</name>
@@ -21,7 +21,7 @@
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/prakash-a7x/carwash-update/releases/download/v1.0.1/plg_carwash_notifycustomer-1.0.1.zip</downloadurl>
         </downloads>
-        <targetplatform name="joomla" version="3.10.5" />
+        <targetplatform name="joomla" version="3.(9|10)" />
     </update>
     <update>
         <name>Carwash Dashboard Module</name>
@@ -34,7 +34,7 @@
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/prakash-a7x/carwash-update/releases/download/v1.0.1/mod_admin_carwash-1.0.1.zip</downloadurl>
         </downloads>
-        <targetplatform name="joomla" version="3.10.5" />
+        <targetplatform name="joomla" version="3.(9|10)" />
     </update>
     <update>
         <name>Carwash Site Module</name>
